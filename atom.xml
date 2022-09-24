@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://dingjunnetwork.github.io</id>
+    <title>定君团队 DingJunTeam</title>
+    <updated>2022-09-24T00:26:57.536Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://dingjunnetwork.github.io"/>
+    <link rel="self" href="https://dingjunnetwork.github.io/atom.xml"/>
+    <subtitle>定君网络 一个努力去钻研hello world的网络</subtitle>
+    <logo>https://dingjunnetwork.github.io/images/avatar.png</logo>
+    <icon>https://dingjunnetwork.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, 定君团队 DingJunTeam</rights>
+    <entry>
+        <title type="html"><![CDATA[易语言·飞扬]]></title>
+        <id>https://dingjunnetwork.github.io/post/easylanguange-feiyang/</id>
+        <link href="https://dingjunnetwork.github.io/post/easylanguange-feiyang/">
+        </link>
+        <updated>2022-09-24T00:15:07.000Z</updated>
+        <content type="html"><![CDATA[<p>易语言·飞扬在下方简称易飞扬.<br>
+易飞扬，是在易语言开拓市场之前的一款复杂的编程软件(比c++还复杂)，我猜测，易语言是使用易飞扬写出的。<br>
+广告:可信可不信<br>
+ScratchOS ———— 接入单子<br>
+作者:lingdianwenduji<br>
+邮箱:yangjunstudio@foxmail.com<br>
+本段落来自投稿</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[文章投稿]]></title>
+        <id>https://dingjunnetwork.github.io/post/wen-zhang-tou-gao/</id>
+        <link href="https://dingjunnetwork.github.io/post/wen-zhang-tou-gao/">
+        </link>
+        <updated>2022-09-23T13:00:12.000Z</updated>
+        <content type="html"><![CDATA[<p>投稿请将标题和内容发送至邮箱:27333392694@qq.com<br>
+格式:</p>
+<p>标题:你的标题<br>
+内容:你的内容<br>
+作者:你的名字/github/qq/wechat/discord/kook(原来名称开黑啦)<br>
+私信邮箱(可填可不填):你的邮箱</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello World :-)]]></title>
+        <id>https://dingjunnetwork.github.io/post/hello-gridea/</id>
+        <link href="https://dingjunnetwork.github.io/post/hello-gridea/">
+        </link>
+        <updated>2018-12-11T16:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>第一个输出的Python:hello world<br>
+记录每一刻<br>
+记录每一个code<br>
+Powered by https://www.girbea.dev</p>
+]]></content>
+    </entry>
+</feed>
